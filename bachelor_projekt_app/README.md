@@ -1,4 +1,4 @@
-# hello
+# bachelor_projekt_app
 
 A new Flutter project.
 
